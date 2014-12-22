@@ -19,6 +19,7 @@ meteor
 
 * Jade - more concise HTML - [http://jade-lang.com/]
 * Stylus - more concise CSS - [http://stylus.org/]
+* Stylus Nib - Stylus mixins - [http://tj.github.io/nib/]
 * CoffeeScript - more concise JS dialect - [http://coffeescript.org/]
 * Bootstrap 3 - an UI framework - [http://getbootstrap.com/]
 * SemanticUI - an UI framework with CS validation - [http://semantic-ui.com/]
