@@ -28,7 +28,7 @@ mrt:moment
 coffeescript
 mquandalle:jade
 alanning:roles
-mrt:iron-router-progress
+multiply:iron-router-progress
 meteorhacks:npm
 aldeed:autoform
 ongoworks:spiderable
