@@ -1,2 +1,2 @@
 Accounts.config
-  forbidClientAccountCreation: true
+  #forbidClientAccountCreation: true
