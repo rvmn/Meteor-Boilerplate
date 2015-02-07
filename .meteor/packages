@@ -16,6 +16,7 @@ dessix:livescript-compiler
 mrt:purecss
 matteodem:easy-security
 fastclick
+houston:admin
 zimme:iron-router-active
 manuelschoebel:ms-seo
 browser-policy
@@ -26,12 +27,14 @@ meteorhacks:fast-render
 mrt:profile-online
 mrt:moment
 coffeescript
+mondora:asteroid
 mquandalle:jade
 alanning:roles
 multiply:iron-router-progress
 meteorhacks:npm
 aldeed:autoform
 ongoworks:spiderable
+meteorhacks:aggregate
 aldeed:template-extension
 bankfacil:vanilla-masker
 workman:meteor-editable
