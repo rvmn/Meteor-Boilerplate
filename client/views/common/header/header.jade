@@ -5,6 +5,8 @@ template(name="header")
       div.row
         div.title
           h3 Meteor
-
+        if isInRole('admin')
+          + admin_nav
+        
       div.underline
 
